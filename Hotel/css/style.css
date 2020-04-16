@@ -443,3 +443,54 @@ body {
   color:#ddd;
   background-color: #b85d1c;
 }
+
+.customers {
+  margin-left: 8rem;
+  padding-bottom: 7rem;
+  background-color: #15141b;
+}
+
+.customers-paragraph {
+  font-size: 1.8rem;
+  color: #ddd;
+  width:  50%;
+  margin: 2rem auto 8rem auto;
+  text-align:center;
+}
+
+.customers-card-wrapper {
+  display: flex;
+  justify-content: space-between
+}
+
+.customer-card { 
+  background-color: #eee;
+  width: 65rem;
+  display:flex;
+}
+
+.customer-image { 
+  width: 20rem;
+}
+
+.customer-info { 
+  padding:  0 2rem;
+}
+
+.customer-fullname {
+  font-size: 32px;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.customers-paragraph-1  {
+  font-style: italic;
+  color: #b85dfc;
+}
+
+.custommer-image-wrapper {
+  margin: 0;
+}
+
+
+
